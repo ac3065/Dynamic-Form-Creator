@@ -51,15 +51,6 @@ src/
 ````
 
 ---
-
-## 📸 Screenshots
-
-<img src="screenshots/form-main.png" width="600"/>
-<img src="screenshots/form-nested.png" width="600"/>
-<img src="screenshots/form-output.png" width="600"/>
-
----
-
 ## 🧪 How to Run Locally
 
 ```bash
@@ -81,4 +72,3 @@ npm run dev
 Roll No: 2210303153
 Invertis University
 
->>>>>>> d34f8ab2c22ef3eba63531387ad6df6272f3d513
